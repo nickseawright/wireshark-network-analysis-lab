@@ -17,7 +17,7 @@ The goal of this lab was to practice packet capture, protocol analysis, and basi
 
 ---
 
-## Lab 001 - Wireshark Setup and Packet Capture
+## Step 1 - Wireshark Setup and Packet Capture
 
 ### Objective
 
@@ -42,7 +42,7 @@ This helped me understand how network traffic appears in real time and how Wires
 
 ---
 
-## Lab 002 - DNS Lookup Analysis
+## Step 2 - DNS Lookup Analysis
 
 ### Objective
 
@@ -66,7 +66,7 @@ This helped me understand how domain names are translated into IP addresses and 
 
 ---
 
-## Lab 003 - HTTP POST Traffic Analysis
+## Step 3 - HTTP POST Traffic Analysis
 
 ### Objective
 
@@ -90,7 +90,7 @@ This showed how credentials submitted over HTTP can be visible in packet capture
 
 ---
 
-## Lab 004 - TCP Stream Analysis
+## Step 4 - TCP Stream Analysis
 
 ### Objective
 
